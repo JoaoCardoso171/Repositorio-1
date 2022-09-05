@@ -46,3 +46,9 @@ ul {
 .imagembeneficios {
 	width: 50%;
 }
+
+@media screen and(max-width: 480px){
+	body{
+		background: red;
+	}
+}
